@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Atividades TypeScript",
+    "slug": "atividades-typescript",
+    "scheme": "atividadestypescript",
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
